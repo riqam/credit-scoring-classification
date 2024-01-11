@@ -1,0 +1,9 @@
+matplotlib==3.7.1
+numpy==1.26.2
+pandas==1.5.3
+pickleshare==0.7.5
+scikit-learn==1.2.2
+seaborn==0.12.2
+streamlit==1.29.0
+notebook==6.5.3
+matplotlib-inline==0.1.2
