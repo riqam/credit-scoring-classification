@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="">[![Status - Under Development](https://img.shields.io/badge/Status-Under_Development-2ea44f)](https://)</a>
-  <a href="#huggingface-logo">[![Hugging Face](https://img.shields.io/badge/Hugging_Face-yellow)](#huggingface-logo)</a>
+  <a href="🤗">[![Hugging Face](https://img.shields.io/badge/Hugging_Face-yellow)](#huggingface-logo)</a>
     <a href="">[![License](https://img.shields.io/badge/License-MIT-blue)](#license)</a>
 
 </div>
