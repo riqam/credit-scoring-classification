@@ -3,11 +3,12 @@
 <div align="center">
 
   <a href="">[![Status - Under Development](https://img.shields.io/badge/Status-Under_Development-2ea44f)](https://)</a>
+  <a href="#huggingface-logo">[![Hugging Face](https://img.shields.io/badge/License-Hugging%20Face-yellow)](#huggingface-logo)</a>
     <a href="">[![License](https://img.shields.io/badge/License-MIT-blue)](#license)</a>
 
 </div>
 
-https://github.com/riqam/credit-scoring/assets/113788011/ab0dab2b-fdfa-484d-89ab-38e9f2e38bf8
+![VideoEditor_20240115_051316](https://github.com/riqam/credit-scoring/assets/113788011/1d15776b-38c8-4659-ae26-800c6fcdb097)
 
 The purpose of this App is to showcase how a Credit Score Evaluation works in a fictional bank and the evaluation uses a machine-learning model
 If you are interested in Data Science, follow my work through my LinkedIn [M. Rifqi Akram](https://www.linkedin.com/in/m-rifqi-akram/)
