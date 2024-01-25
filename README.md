@@ -1,5 +1,3 @@
-# 1. Credit Scoring Classification
-
 <div align="center">
 
   <a href="">[![Status - Under Development](https://img.shields.io/badge/Status-Under_Development-2ea44f)](https://)</a>
@@ -7,6 +5,8 @@
     <a href="">[![License](https://img.shields.io/badge/License-MIT-blue)](#license)</a>
 
 </div>
+
+# 1. Credit Scoring Classification
 
 This folder contains Exploratory Data Analysis (EDA), Data Preprocessing, and Machine Learning Model within one Jupyter Notebook file.
 
