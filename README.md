@@ -10,9 +10,11 @@
 
 This folder contains Exploratory Data Analysis (EDA), Data Preprocessing, and Machine Learning Model within one Jupyter Notebook file.
 
+===
+
 # 2. Credit Scoring Classification App
 
-This folder is a development of folder (1) but uses different data. This folder contains a simulation App for users to calculate their Credit Score.
+This folder is a development of folder (1) but uses different data. It contains a simulation App for users to calculate their Credit Score.
 
 The purpose of this App is to showcase how a Credit Score Evaluation works in a fictional bank and the evaluation uses a machine-learning model.
 
