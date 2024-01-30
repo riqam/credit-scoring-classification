@@ -12,7 +12,7 @@ This folder contains Exploratory Data Analysis (EDA), Data Preprocessing, and Ma
 
 ---
 
-# 2. Credit Scoring Classification App
+# 2. Credit Scoring App
 
 This folder is a development of folder (1) but uses different data. It contains a simulation App for users to calculate their Credit Score.
 
