@@ -22,4 +22,4 @@ This simple application shows how companies can evaluate a person's credit score
 
 
 ---
-If you are interested in Data Science, follow my work through my LinkedIn [M. Rifqi Akram](https://www.linkedin.com/in/m-rifqi-akram/)
+If you are interested in Data Science or Data Analysis, follow my work through my LinkedIn [M. Rifqi Akram](https://www.linkedin.com/in/m-rifqi-akram/)
