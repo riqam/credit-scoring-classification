@@ -22,8 +22,7 @@ This simple application shows how companies can evaluate a person's credit score
 
 ---
 # 3. Project Folder Structure
-```
-├───License          
+```          
 ├───README.md                        <-- Instructions for readers to understand this repository
 ├───Credit Scoring App
 │   ├───app                          <-- Folder containing the application code of this project
@@ -33,9 +32,10 @@ This simple application shows how companies can evaluate a person's credit score
 │   │   └───raw                      <-- Raw data used in this project
 │   ├───log                          <-- Folder containing the history of log parameters in this project
 │   ├───models                       <-- Folder containing the models used in this project
-│   └───src
-│       └───__pycache__
+│   ├───src
+│   │   └───__pycache__
 │   ├───requirements.txt             <-- Requirement files to run this application
+│   ├───License
 └───Credit Scoring Classification    <-- Folder containing only classified Notebooks in .ipynb file format
 ```
 
