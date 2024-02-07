@@ -24,6 +24,7 @@ This simple application shows how companies can evaluate a person's credit score
 # 3. Project Folder Structure
 ```          
 ├───README.md                        <-- Instructions for readers to understand this repository
+│
 ├───Credit Scoring App
 │   ├───app                          <-- Folder containing the application code of this project
 │   ├───config                       <-- Folder containing the configuration file
@@ -35,7 +36,8 @@ This simple application shows how companies can evaluate a person's credit score
 │   ├───src
 │   │   └───__pycache__
 │   ├───requirements.txt             <-- Requirement files to run this application
-│   ├───License
+│   └───License
+│
 └───Credit Scoring Classification    <-- Folder containing only classified Notebooks in .ipynb file format
 ```
 
