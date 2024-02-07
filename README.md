@@ -20,6 +20,24 @@ The purpose of this App is to showcase how a Credit Score Evaluation works in a 
 
 This simple application shows how companies can evaluate a person's credit score, you can see the application directly [here](https://credit-scoring-application.streamlit.app)
 
+---
+# 3. Project Folder Structure
+```
+├───License          
+├───README.md                        <-- Instructions for readers to understand this repository
+├───requirements.txt                 <-- Requirement files to run this application
+├───Credit Scoring App
+│   ├───app                          <-- Folder containing the application code of this project
+│   ├───config                       <-- Folder containing the configuration file
+│   ├───data
+│   │   ├───output                   <-- Data output of this project
+│   │   └───raw                      <-- Raw data used in this project
+│   ├───log                          <-- Folder containing the history of log parameters in this project
+│   ├───models                       <-- Folder containing the models used in this project
+│   └───src
+│       └───__pycache__
+└───Credit Scoring Classification    <-- Folder containing only classified Notebooks in .ipynb file format
+```
 
 ---
 If you are interested in Data Science or Data Analysis, follow my work through my LinkedIn [M. Rifqi Akram](https://www.linkedin.com/in/m-rifqi-akram/)
