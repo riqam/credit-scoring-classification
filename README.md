@@ -18,7 +18,7 @@ This folder is a development of folder (1) but uses different data. It contains 
 
 The purpose of this App is to showcase how a Credit Score Evaluation works in a fictional bank and the evaluation uses a machine-learning model.
 
-This simple application shows how companies can evaluate a person's credit score, you can see the application directly [here](https://credit-scoring-application.streamlit.app)
+This simple application shows how companies can evaluate a person's credit score, you can see the application directly [here](https://credit-scoring-application.streamlit.app/)
 
 ---
 # 3. Project Folder Structure
