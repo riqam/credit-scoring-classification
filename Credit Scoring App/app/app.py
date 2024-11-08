@@ -97,12 +97,12 @@ if profile == 'Rifqi':
 
 elif profile == 'Akram':
     name_default = 'Akram'
-    age_default = 40
+    age_default = 28
     MonthlyIncome_default = 2600.0000
     total_balance_credit_card_default = 957151019.0000
     credit_limits_default = 1000000000.0000
     debtor_expenses_default = 316.8800
-    NumberOfOpenCreditLinesAndLoans_default = 4
+    NumberOfOpenCreditLinesAndLoans_default = 0
     NumberOfTime30_59DaysPastDueNotWorse_default = 0
     NumberOfTime60_89DaysPastDueNotWorse_default = 0
     NumberOfTimes90DaysLate_default = 0
